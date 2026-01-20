@@ -64,12 +64,6 @@ Focuses on customer-level analytics and buying behavior.
 - Majority of customers place 1–2 orders, indicating retention opportunities
 - Some subcategories show high sales but low or negative profit
 - A small set of customers contributes significantly to total profit
-
----
-
-## 📂 Repository Structure
- 
-
 ---
 
 ## 🚀 How to Use
