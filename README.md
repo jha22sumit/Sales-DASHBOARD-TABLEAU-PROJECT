@@ -28,7 +28,7 @@ Provides a complete overview of business performance.
 - Profit & Loss analysis by subcategory
 - Average benchmark lines for Sales and Profit
 
-![Sales Dashboard](Screenshots/Sales_dashboard.png)
+![Sales Dashboard](documents\Sales dashboard.png)
 
 ---
 
@@ -68,6 +68,31 @@ Focuses on customer-level analytics and buying behavior.
 ---
 
 ## 📂 Repository Structure
+ 
 
+---
+
+## 🚀 How to Use
+1. Download the `.twbx` Tableau Packaged Workbook
+2. Open it using **Tableau Desktop**
+3. Use filters and interactive visuals to explore insights
+
+---
+
+## 👤 Author
+**Sumit Kumar**  
+📍 Ghaziabad, India  
+
+**Skills:**  
+SQL | Excel | Power BI | Tableau | Python  
+
+---
+
+## ⭐ Why This Project?
+This project demonstrates:
+- Business-focused dashboard design
+- KPI-driven storytelling
+- Strong understanding of sales & customer analytics
+- Recruiter-ready Tableau visualization practices
 
 
