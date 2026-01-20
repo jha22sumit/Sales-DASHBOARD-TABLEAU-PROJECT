@@ -8,7 +8,7 @@ Customer purchasing patterns
 Top customers and product subcategories
 Areas of high and low performance
 
-🧩 Dashboards Included
+#🧩 Dashboards Included
 1️⃣ Sales Dashboard
 
 Provides a complete overview of business performance.
