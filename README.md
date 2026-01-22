@@ -1,10 +1,11 @@
-📊 Sales & Customer Performance Analysis Dashboard (Tableau)
+## 📊 Sales & Customer Performance Analysis Dashboard (Tableau)
 🔍 Project Overview
+
 •	📌 Interactive Tableau Dashboard for Sales & Customer Analysis
 •	📅 Current Year (CY) vs Previous Year (PY) comparison
 •	📈 Focus on growth trends, profitability, and customer behavior
 •	💡 Designed for business decision-making and performance tracking
-________________________________________
+
 📊 Sales & Customer Performance Analysis Dashboard (Tableau)
 🔍 Project Overview
 •	📌 Interactive Tableau Dashboard for Sales & Customer Analysis
