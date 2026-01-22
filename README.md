@@ -60,22 +60,20 @@ Focuses on customer-level analytics and buying behavior.
 ---
 
 ## 📈 Key Business Insights
-- 💡 Business Insights
-•	🌟 Identifies high-value and repeat customers
-•	🛒 Analyzes customer purchasing patterns
-•	🎯 Supports customer segmentation
-•	🔁 Improves retention and revenue strategy
-________________________________________
-•	🔝 Identifies top-performing sub-categories
-•	🔻 Highlights loss-making products
-•	📆 Reveals seasonal sales and profit patterns
-•	📊 Enables data-driven decisions
+- 💡 Business Insights.
+-🌟 Identifies high-value and repeat customers.
+-🛒 Analyzes customer purchasing patterns.
+-	🎯 Supports customer segmentation.
+-	🔁 Improves retention and revenue strategy.
+-	🔝 Identifies top-performing sub-categories
+-	🔻 Highlights loss-making products
+-	📆 Reveals seasonal sales and profit patterns
+-	📊 Enables data-driven decisions
 
 
 ---
 
 
----
 
 ## 🚀 How to Use
 1. Download the `.twbx` Tableau Packaged Workbook
