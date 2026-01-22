@@ -1,85 +1,70 @@
-## 📊 Sales & Customer Performance Analysis Dashboard (Tableau)
-# 🔍 Project Overview
+# 📊 Tableau Sales & Customer Dashboard | 2022
 
-•	📌 Interactive Tableau Dashboard for Sales & Customer Analysis.
-•	📅 **Current Year (CY) vs Previous Year** (PY) comparison.
-•	📈 Focus on growth **trends, profitability**, and customer behavior.
-•	💡 Designed for business **decision-making** and performance tracking.
+## 📌 Project Overview
+This project features interactive Tableau dashboards designed to analyze **Sales performance and Customer behavior** for the year **2022**, with **Year-over-Year (YoY) comparison against 2021**.
 
-📂 Dashboards Included
-🟦 Sales Dashboard
-📌 Key KPIs
-•	💵 Total Sales
-•	💰 Total Profit
-•	📦 Total Quantity Sold
-•	📊 YoY Growth % (CY vs PY)
-📈 Visual Analysis
-•	📅 Monthly Sales & Profit Trends (CY vs PY)
-•	🧩 Sales & Profit by Sub-Category
-•	⚖️ Profit vs Loss Analysis
-•	⬆️⬇️ Above / Below Average Performance
-💡 Business Insights
-•	🔝 Identifies top-performing sub-categories
-•	🔻 Highlights loss-making products
-•	📆 Reveals seasonal sales and profit patterns
-•	📊 Enables data-driven decisions
-________________________________________
-🟩 Customer Dashboard
-👥 Key KPIs
-•	👤 Total Customers
-•	🧾 Total Orders
-•	💳 Average Sales per Customer
-•	📈 YoY Customer Growth
-📊 Visual Analysis
-•	📅 Monthly Customer Trend Analysis
-•	🔢 Distribution by Number of Orders
-•	🏆 Top 10 Customers by Profit
-•	💵 Customer Contribution to Sales & Profit
-💡 Business Insights
-•	🌟 Identifies high-value and repeat customers
-•	🛒 Analyzes customer purchasing patterns
-•	🎯 Supports customer segmentation
-•	🔁 Improves retention and revenue strategy
-________________________________________
-🔁 Year-over-Year (YoY) Comparison
-•	📆 Current Year vs Previous Year
-•	🟢 Highlights highest performing months
-•	🔴 Identifies lowest performing months
-•	📊 Shows growth % vs PY
-•	⚠️ Flags positive and negative trends
-________________________________________
-🛠 Tools & Technologies
-•	🖥 Tableau Desktop
-•	🧮 Calculated Fields
-•	🧠 LOD Expressions
-•	🎛 Interactive Filters & Dashboard Actions
-•	🎨 Data Visualization Best Practices
-________________________________________
-🗂 Dataset Details
-•	📦 Orders data
-•	👥 Customers data
-•	🧩 Products & Sub-Categories
-•	💰 Sales, Profit, Quantity
-•	📅 Order Date (Year & Month)
-________________________________________
-🎯 Key Skills Demonstrated
-•	📊 Sales & Customer Analytics
-•	📈 KPI Design & YoY Analysis
-•	🧱 Dashboard Layout & UX Design
-•	🗣 Business Insight Storytelling
-•	📉 Tableau Data Visualization
-________________________________________
-📸 Dashboard Preview
-🟦 Sales Dashboard
-(Screenshot attached)
-🟩 Customer Dashboard
-(Screenshot attached)
-________________________________________
-👤 Author
-Sumit Kumar
-📍 Ghaziabad, India
-💼 Aspiring Data Analyst
-🛠 Skills: SQL | Excel | Tableau | Power BI | Python
-________________________________________
+The dashboards help business stakeholders quickly identify:
+- Sales growth and profitability trends  
+- Customer purchasing patterns  
+- Top customers and product subcategories  
+- Areas of high and low performance  
 
+---
 
+## 🧩 Dashboards Included
+
+### 1️⃣ Sales Dashboard
+Provides a complete overview of business performance.
+
+**Key Metrics**
+- 💰 Total Sales: **$609K** (▲ 29.5% vs PY)
+- 📈 Total Profit: **$82K** (▲ 32.7% vs PY)
+- 📦 Total Quantity: **10K** (▲ 23.3% vs PY)
+
+**Insights Covered**
+- Monthly Sales & Profit trends
+- Sales vs Profit performance over time
+- Subcategory-wise Sales comparison (2022 vs 2021)
+- Profit & Loss analysis by subcategory
+- Average benchmark lines for Sales and Profit
+
+![Sales Dashboard](Screenshots/Sales_dashboard.png)
+
+---
+
+### 2️⃣ Customer Dashboard
+Focuses on customer-level analytics and buying behavior.
+
+**Key Metrics**
+- 👥 Total Customers: **638** (▲ 11.3% vs PY)
+- 🧾 Total Orders: **1,315** (▲ 26.7% vs PY)
+- 💳 Sales per Customer: **$955** (▲ 16.3% vs PY)
+
+**Insights Covered**
+- Monthly customer and order trends
+- Customer distribution by number of orders
+- Repeat vs one-time customer analysis
+- Top 10 customers by profit
+- Last order date, sales, and order count per customer
+
+![Customer Dashboard](Screenshots/Customer_dashboard.png)
+
+---
+
+## 🛠 Tools & Technologies
+- Tableau Desktop
+- Excel / CSV
+- Calculated Fields
+- Parameters & Filters
+
+---
+
+## 📈 Key Business Insights
+- Strong YoY growth across Sales, Profit, Orders, and Customers
+- Majority of customers place 1–2 orders, indicating retention opportunities
+- Some subcategories show high sales but low or negative profit
+- A small set of customers contributes significantly to total profit
+
+---
+
+## 📂 Repository Structure
