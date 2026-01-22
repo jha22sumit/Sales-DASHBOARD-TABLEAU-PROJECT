@@ -28,7 +28,7 @@ Provides a complete overview of business performance.
 - **Profit & Loss analysis** by subcategory
 - Average benchmark lines for Sales and Profit
 
-![Sales Dashboard](https://github.com/jha22sumit/Sales-DASHBOARD-TABLEAU-PROJECT/blob/main/Sales%20dashboard%20project.twb)
+![Sales Dashboard](https://github.com/jha22sumit/Sales-DASHBOARD-TABLEAU-PROJECT/blob/main/Sales_dashboard.png)
 
 ---
 
