@@ -1,4 +1,4 @@
-# 📊 Tableau Sales & Customer Dashboard | 2022
+# 📊 Sales & Customer Performance Analysis Dashboard (Tableau)
 
 ## 📌 Project Overview
 This project features interactive Tableau dashboards designed to analyze Sales & Customer Analysis.
@@ -22,10 +22,10 @@ Provides a complete overview of business performance.
 - 📦 Total Quantity: **10K** (▲ 23.3% vs PY)
 
 **Insights Covered**
-- Monthly Sales & Profit trends
+- Monthly** Sales & Profit trends**
 - Sales vs Profit performance over time
-- Subcategory-wise Sales comparison (2022 vs 2021)
-- Profit & Loss analysis by subcategory
+- Subcategory-wise Sales comparison (Yearwise.)
+- **Profit & Loss analysis** by subcategory
 - Average benchmark lines for Sales and Profit
 
 ![Sales Dashboard](Screenshots/Sales_dashboard.png)
@@ -41,10 +41,10 @@ Focuses on customer-level analytics and buying behavior.
 - 💳 Sales per Customer: **$955** (▲ 16.3% vs PY)
 
 **Insights Covered**
-- Monthly customer and order trends
+- Monthly customer and **order trends**
 - Customer distribution by number of orders
-- Repeat vs one-time customer analysis
-- Top 10 customers by profit
+- Repeat vs **one-time customer** analysis
+- Top **10 customers** by profit
 - Last order date, sales, and order count per customer
 
 ![Customer Dashboard](Screenshots/Customer_dashboard.png)
@@ -59,16 +59,15 @@ Focuses on customer-level analytics and buying behavior.
 
 ---
 
-## 📈 Key Business Insights
-- 💡 Business Insights.
--🌟 Identifies high-value and repeat customers.
--🛒 Analyzes customer purchasing patterns.
+## 📈 Key Business Insights.
+- 🌟 Identifies **high-value and repeat **customers.
+- 🛒 Analyzes customer **purchasing patterns**.
 -	🎯 Supports customer segmentation.
--	🔁 Improves retention and revenue strategy.
--	🔝 Identifies top-performing sub-categories
--	🔻 Highlights loss-making products
--	📆 Reveals seasonal sales and profit patterns
--	📊 Enables data-driven decisions
+-	🔁 Improves** retention** and revenue strategy.
+-	🔝 Identifies **top-performing** sub-categories.
+-	🔻 Highlights **loss-making** products.
+-	📆 Reveals seasonal sales and profit patterns.
+
 
 
 ---
