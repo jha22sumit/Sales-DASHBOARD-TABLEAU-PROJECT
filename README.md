@@ -1,92 +1,156 @@
- # 📊 Tableau Sales & Customer Dashboard | 2022
+📊 Sales & Customer Analysis Dashboard (Tableau)
+📌 Project Overview
 
-## 📌 Project Overview
-This project features interactive Tableau dashboards designed to analyze **Sales performance and Customer behavior** for the year **2022**, with **Year-over-Year (YoY) comparison against 2021**.
+This project presents an interactive Tableau dashboard designed to analyze Sales and Customer performance by comparing Current Year (CY) vs Previous Year (PY).
+The dashboard helps stakeholders quickly identify growth trends, profitability, customer behavior, and key contributors to business performance.
 
-The dashboards help business stakeholders quickly identify:
-- Sales growth and profitability trends  
-- Customer purchasing patterns  
-- Top customers and product subcategories  
-- Areas of high and low performance  
+The project is divided into two main dashboards:
 
----
+Sales Dashboard
 
-## 🧩 Dashboards Included
+Customer Dashboard
 
-### 1️⃣ Sales Dashboard
-Provides a complete overview of business performance.
+🧩 Dashboards Included
+🔹 1. Sales Dashboard
 
-**Key Metrics**
-- 💰 Total Sales: **$609K** (▲ 29.5% vs PY)
-- 📈 Total Profit: **$82K** (▲ 32.7% vs PY)
-- 📦 Total Quantity: **10K** (▲ 23.3% vs PY)
+Focuses on overall business performance and profitability trends.
 
-**Insights Covered**
-- Monthly Sales & Profit trends
-- Sales vs Profit performance over time
-- Subcategory-wise Sales comparison (2022 vs 2021)
-- Profit & Loss analysis by subcategory
-- Average benchmark lines for Sales and Profit
+Key KPIs
 
-![image alt](https://github.com/jha22sumit/C:\Users\dell\Documents\BACKUPP USERS\Documents\TABLEAU PROJECTS\SALES PROJECT\Sales dashboard.png)
+Total Sales
 
----
+Total Profit
 
-### 2️⃣ Customer Dashboard
-Focuses on customer-level analytics and buying behavior.
+Total Quantity Sold
 
-**Key Metrics**
-- 👥 Total Customers: **638** (▲ 11.3% vs PY)
-- 🧾 Total Orders: **1,315** (▲ 26.7% vs PY)
-- 💳 Sales per Customer: **$955** (▲ 16.3% vs PY)
+Year-over-Year (YoY) % change comparison
 
-**Insights Covered**
-- Monthly customer and order trends
-- Customer distribution by number of orders
-- Repeat vs one-time customer analysis
-- Top 10 customers by profit
-- Last order date, sales, and order count per customer
+Visual Analysis
 
-![Customer Dashboard](Screenshots/Customer_dashboard.png)
+Monthly Sales & Profit trends (CY vs PY)
 
----
+Sales & Profit by Sub-Category
 
-## 🛠 Tools & Technologies
-- Tableau Desktop
-- Excel / CSV
-- Calculated Fields
-- Parameters & Filters
+Profit vs Loss identification
 
----
+Above / Below Average performance indicators
 
-## 📈 Key Business Insights
-- Strong YoY growth across Sales, Profit, Orders, and Customers
-- Majority of customers place 1–2 orders, indicating retention opportunities
-- Some subcategories show high sales but low or negative profit
-- A small set of customers contributes significantly to total profit
----
+Business Insights
 
-## 🚀 How to Use
-1. Download the `.twbx` Tableau Packaged Workbook
-2. Open it using **Tableau Desktop**
-3. Use filters and interactive visuals to explore insights
+Identifies top-performing and loss-making subcategories
 
----
+Tracks seasonal sales & profit fluctuations
 
-## 👤 Author
-**Sumit Kumar**  
-📍 Ghaziabad, India  
+Highlights YoY growth patterns in revenue and quantity
 
-**Skills:**  
-SQL | Excel | Power BI | Tableau | Python  
+🔹 2. Customer Dashboard
 
----
+Focuses on customer behavior and contribution to revenue.
 
-## ⭐ Why This Project?
-This project demonstrates:
-- Business-focused dashboard design
-- KPI-driven storytelling
-- Strong understanding of sales & customer analytics
-- Recruiter-ready Tableau visualization practices
+Key KPIs
 
+Total Customers
 
+Total Sales per Customer
+
+Total Orders
+
+YoY growth comparison
+
+Visual Analysis
+
+Monthly customer trend analysis
+
+Distribution of customers by number of orders
+
+Top 10 Customers by Profit
+
+Customer contribution to sales and profitability
+
+Business Insights
+
+Identifies high-value customers
+
+Analyzes customer ordering patterns
+
+Supports customer segmentation and retention strategies
+
+📈 Year-over-Year Comparison
+
+All KPIs and trends compare Current Year vs Previous Year
+
+Highlights:
+
+Highest & Lowest performing months
+
+Growth percentages vs PY
+
+Positive and negative trend indicators
+
+🛠 Tools & Technologies
+
+Tableau Desktop
+
+Calculated Fields
+
+LOD Expressions
+
+Interactive Filters & Actions
+
+Data Visualization Best Practices
+
+📂 Dataset
+
+Sample sales dataset containing:
+
+Orders
+
+Customers
+
+Products & Sub-Categories
+
+Sales, Profit, Quantity
+
+Order Date (Year & Month)
+
+(Dataset used for learning and portfolio purposes)
+
+🎯 Key Skills Demonstrated
+
+Dashboard Design & Layouting
+
+KPI Development
+
+YoY Analysis (CY vs PY)
+
+Customer & Sales Analytics
+
+Business Insight Storytelling
+
+Data Visualization Best Practices
+
+📸 Dashboard Preview
+Sales Dashboard
+
+Customer Dashboard
+
+🚀 How to Use
+
+Download the .twbx / .twb file from this repository
+
+Open in Tableau Desktop
+
+Use filters to explore:
+
+Year comparison
+
+Monthly trends
+
+Customer & sub-category performance
+
+📬 Author
+
+Sumit Kumar
+📍 Ghaziabad, India
+💼 Aspiring Data Analyst
+🛠 Skills: SQL | Excel | Power BI | Tableau | Python
