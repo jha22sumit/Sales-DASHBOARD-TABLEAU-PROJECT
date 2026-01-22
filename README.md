@@ -1,7 +1,7 @@
 # 📊 Tableau Sales & Customer Dashboard | 2022
 
 ## 📌 Project Overview
-This project features interactive Tableau dashboards designed to analyze **Sales performance and Customer behavior** for the year **2022**, with **Year-over-Year (YoY) comparison against 2021**.
+This project features interactive Tableau dashboards designed to analyze Sales & Customer Analysis.
 
 The dashboards help business stakeholders quickly identify:
 - Sales growth and profitability trends  
@@ -67,4 +67,22 @@ Focuses on customer-level analytics and buying behavior.
 
 ---
 
-## 📂 Repository Structure
+
+---
+
+## 🚀 How to Use
+1. Download the `.twbx` Tableau Packaged Workbook
+2. Open it using **Tableau Desktop**
+3. Use filters and interactive visuals to explore insights
+
+---
+
+## 👤 Author
+**Sumit Kumar**  
+📍 Ghaziabad, India  
+
+**Skills:**  
+SQL | Excel | Power BI | Tableau | Python  
+
+--
+
