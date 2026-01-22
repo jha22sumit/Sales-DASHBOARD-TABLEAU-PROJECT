@@ -60,10 +60,17 @@ Focuses on customer-level analytics and buying behavior.
 ---
 
 ## 📈 Key Business Insights
-- Strong YoY growth across Sales, Profit, Orders, and Customers
-- Majority of customers place 1–2 orders, indicating retention opportunities
-- Some subcategories show high sales but low or negative profit
-- A small set of customers contributes significantly to total profit
+- 💡 Business Insights
+•	🌟 Identifies high-value and repeat customers
+•	🛒 Analyzes customer purchasing patterns
+•	🎯 Supports customer segmentation
+•	🔁 Improves retention and revenue strategy
+________________________________________
+•	🔝 Identifies top-performing sub-categories
+•	🔻 Highlights loss-making products
+•	📆 Reveals seasonal sales and profit patterns
+•	📊 Enables data-driven decisions
+
 
 ---
 
