@@ -28,7 +28,7 @@ Provides a complete overview of business performance.
 - **Profit & Loss analysis** by subcategory
 - Average benchmark lines for Sales and Profit
 
-![Sales Dashboard](Screenshots/Sales_dashboard.png)
+![Sales Dashboard](C:\Users\dell\Documents\BACKUPP USERS\Documents\TABLEAU PROJECTS\SALES PROJECT\Customer_Dashboard)
 
 ---
 
