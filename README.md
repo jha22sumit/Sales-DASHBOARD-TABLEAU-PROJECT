@@ -17,9 +17,9 @@ The dashboards help business stakeholders quickly identify:
 Provides a complete overview of business performance.
 
 **Key Metrics**
-- 💰 Total Sales: **$609K** (▲ 29.5% vs PY)
-- 📈 Total Profit: **$82K** (▲ 32.7% vs PY)
-- 📦 Total Quantity: **10K** (▲ 23.3% vs PY)
+- 💰 Total Sales: **$733K** (▲ 20.4% vs PY)
+- 📈 Total Profit: **$93K** (▲ 14.2% vs PY)
+- 📦 Total Quantity: **12K** (▲ 26.8% vs PY)
 
 **Insights Covered**
 - Monthly** Sales & Profit trends**
@@ -36,9 +36,9 @@ Provides a complete overview of business performance.
 Focuses on customer-level analytics and buying behavior.
 
 **Key Metrics**
-- 👥 Total Customers: **638** (▲ 11.3% vs PY)
-- 🧾 Total Orders: **1,315** (▲ 26.7% vs PY)
-- 💳 Sales per Customer: **$955** (▲ 16.3% vs PY)
+- 👥 Total Customers: **693** (▲ 8.6% vs PY)
+- 🧾 Total Orders: **1,687** (▲ 28.3% vs PY)
+- 💳 Sales per Customer: **$1058** (▲ 10.8% vs PY)
 
 **Insights Covered**
 - Monthly customer and **order trends**
@@ -47,7 +47,7 @@ Focuses on customer-level analytics and buying behavior.
 - Top **10 customers** by profit
 - Last order date, sales, and order count per customer
 
-![Customer Dashboard](Screenshots/Customer_dashboard.png)
+![Customer Dashboard](https://github.com/jha22sumit/Sales-DASHBOARD-TABLEAU-PROJECT/blob/main/Customer_dashboard.png)
 
 ---
 
