@@ -1,4 +1,4 @@
-# 📊 Sales & Customer Performance Analysis Dashboard (Tableau)
+# 📊 Customer & Sales Performance Analysis Dashboard (Tableau)
 
 ## 📌 Project Overview
 This project features interactive Tableau dashboards designed to analyze Sales & Customer Analysis.
